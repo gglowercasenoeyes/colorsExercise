@@ -1,0 +1,30 @@
+h1 {
+    color: violet; 
+    background-color: #FF0000;
+} 
+h2 {
+    color: #0B0082FF;
+    background-color: rgb(255, 127, 0);
+}
+h3 {
+    color: #00ff;
+    background-color: #FF0;
+}
+h4 {color: rgba(0, 127, 0, .7);
+    background-color: rgba(0, 255, 0, 1);
+}
+h5 {color: #FF0;
+    background-color: #00FF;
+}
+h6 {color: rgb(255, 127, 0);
+    background-color: #0B0082FF;
+}
+p {color: #FF0000;
+    background-color: violet;
+}
+.thisIs{
+    color: hotpink;
+}
+#fun{
+    color: peachpuff;
+}
